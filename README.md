@@ -21,6 +21,9 @@ X のホームを開いたときに自動で「フォロー中」タブに切り
 
 上記の手法で、すぐに導入が完了します。
 
+## Download as ZIP(zip 形式でダウンロード)
+[X Following Force Ver 1.0.1](https://github.com/Ant2357/x-following-force/releases/tag/v1.0.1 "X Following Force Ver 1.0.1")
+
 ## Author
 * Ant2357
 
